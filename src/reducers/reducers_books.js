@@ -4,5 +4,6 @@ export default function() {
         {title: 'Harry poter'},
         {title: 'The dark tower'},
         {title: 'Eloquent Ruby'},
+        {title: 'Ikigai'},
     ];
 }
