@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import BookList from '../containers/book-list';
+import BookList from '../containers/booklist-list.js';
 
 export default class App extends Component {
   render() {
@@ -7,6 +7,6 @@ export default class App extends Component {
       <div>
         <BookList />
       </div>
-    );
+    )
   }
 }
