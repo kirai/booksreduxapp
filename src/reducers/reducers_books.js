@@ -5,5 +5,6 @@ export default function() {
         {title: 'The dark tower'},
         {title: 'Eloquent Ruby'},
         {title: 'Ikigai'},
+        {title: 'Baba'}
     ];
 }
